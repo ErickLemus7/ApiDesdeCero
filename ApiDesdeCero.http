@@ -1,0 +1,6 @@
+@ApiDesdeCero_HostAddress = http://localhost:5122
+
+GET {{ApiDesdeCero_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
